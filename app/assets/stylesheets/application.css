@@ -26,3 +26,7 @@
   justify-content: center;
   margin-left: 5rem;
 }
+
+.logout {
+  gap: 3rem;
+}
